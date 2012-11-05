@@ -1,0 +1,4 @@
+libfreenect
+===========
+
+open kinect
